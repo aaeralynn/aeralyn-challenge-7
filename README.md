@@ -9,7 +9,7 @@
 - [Questions](#questions)
 
 ## Description
-I had to create a wprking README generator using what I've learned through class about node and javascript.
+I had to create a working README generator using what I've learned through class about node and javascript.
 
 ## Installation
 Run npm install in the terminal
