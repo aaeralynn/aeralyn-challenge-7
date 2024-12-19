@@ -32,3 +32,7 @@ Use test suite
 
 ## Questions
 For any questions, please reach out to [aaeralynn](https://github.com/aaeralynn) or email me at Aeralyn123@gmail.com.
+
+## Sources
+
+Used Xpert learning assistant and had a peer review my code and make sure everything looked good before I would push
